@@ -1,0 +1,21 @@
+body {
+    background-color: #222;
+    font-family: sans-serif;
+    margin: 0;
+    color: #fff;
+}
+.square {
+    width: 300px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 0 5px 0 #fff6, 0 0 15px 0 #fff4;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
